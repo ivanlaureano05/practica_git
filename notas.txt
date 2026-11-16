@@ -1,3 +1,4 @@
 Licenciatura: Matemáticas Aplicadas y computación
 Nombre: Hugo Ivan Martinez Laureano
 Edad:33
+Cambios hecho por un compañero
